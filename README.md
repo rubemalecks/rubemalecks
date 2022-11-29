@@ -3,9 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rubinho+Álecks!;I'm+23+years+old;I+from+Brasil;I+study+programming+at+Alura+and+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubemalecks&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div align="center">
+  <a href="https://github.com/rubemalecks">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubemalecks&theme=nord&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubemalecks&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
