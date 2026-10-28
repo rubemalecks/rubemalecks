@@ -19,14 +19,14 @@ Na **RBTech Soluções**, trabalho na construção de ferramentas que aproximam 
 
 ## No que estou trabalhando
 
-**RBCount** — aplicativo e painel para contagem de inventários integrados ao WinThor.
+Atualmente, desenvolvo ferramentas para operações comerciais e de estoque, com foco em integração com o WinThor e bancos Oracle.
 
-- Aplicativo Android em React Native para leitura de códigos e registro de contagens.
-- API em Node.js para conectar o aplicativo ao ERP.
-- Painel para acompanhar contagens e consultar o histórico por operador e horário.
-- Integração com Oracle e autenticação de usuários pelo WinThor/WTA.
+- **Inventários:** aplicativos móveis e painéis para registrar, acompanhar e auditar contagens.
+- **Gestão comercial:** painéis para consultar indicadores, metas e informações de vendas.
+- **Políticas de desconto:** ferramentas para configurar campanhas e faixas de quantidade.
+- **Integração e automação:** APIs e rotinas que conectam sistemas e reduzem tarefas manuais.
 
-O código do projeto é mantido em repositório privado.
+Também trabalho na experiência de uso dessas soluções, desde as telas e os relatórios até a instalação e a configuração.
 
 ## Tecnologias
 
