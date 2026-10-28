@@ -6,6 +6,8 @@
 
 Brasil · RBTech Soluções
 
+<img src="https://komarev.com/ghpvc/?username=rubemalecks&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=007fa8&style=for-the-badge" alt="Contador de visualizações do perfil" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-%C3%A1lecks-a3ab961b8/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rubinho.py/)
 
