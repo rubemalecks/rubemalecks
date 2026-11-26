@@ -38,6 +38,12 @@ Conheça mais em **[rbtech.app.br](https://rbtech.app.br)** e no **[meu portfól
 - [Clonar estruturação de produto](https://github.com/rubemalecks/clonar-estruturacao-de-produto-winthor-1601): copia a formulação de um produto para outro ou para outra filial.
 - [Gerenciador de famílias de produtos](https://github.com/rubemalecks/Gerenciador-de-Fam-lias-de-Produtos---Winthor): organiza as famílias de produtos com confirmação em cada passo.
 
+## Rotinas personalizadas (código privado)
+
+- **Gerenciador de Metas**: rotina para o WinThor, aberta pelo menu com o usuário já logado, que lança a meta do mês da
+  equipe inteira de uma vez, por departamento, seção ou produto, a partir da meta ou do vendido no mês anterior, com
+  revisão de tudo antes de gravar. Telas no [portfólio](https://rubemalecks.github.io/#programas).
+
 ## Tecnologias
 
 **Aplicações e interfaces**
